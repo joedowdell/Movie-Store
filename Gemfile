@@ -40,3 +40,5 @@ gem 'spring',        group: :development
 
 gem 'foundation-rails'
 gem 'devise'
+gem 'redis', '~> 3.0.1'
+gem 'hiredis', '~> 0.4.5'
