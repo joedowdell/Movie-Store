@@ -2,6 +2,9 @@
 
 Online shopping is a form of electronic commerce which allows customers to directly buy products or services like e-books, software, and streaming media over the Internet using a web browser. This kind of shopping is a part of our daily lives, used by many well-known sites, such as Amazon, E-bay, or various streaming sites.
 
+
+![](app/assets/images/screenshot.png)
+
 ## Technologies Used:
 
   + Ruby – Programming language
